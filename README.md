@@ -1,9 +1,8 @@
-````markdown
 # File Reverse and Verify  
 
 This repo has 2 programs:  
-- **Q1:** Reverse file content in different ways  
-- **Q2:** Verify reversed files  
+- Q1: Reverse file content in different ways  
+- Q2: Verify reversed files  
 
 ---
 
@@ -12,7 +11,7 @@ This repo has 2 programs:
 ### Compile  
 ```bash
 g++ 2025202032_A1_Q1.cpp
-````
+```
 
 ### Run
 
